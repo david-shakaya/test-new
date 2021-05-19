@@ -9,6 +9,10 @@
 #### DB_USERNAME=root
 #### DB_PASSWORD=root
 
+####CACHE_DRIVER=file
+
+####SESSION_DRIVER=file
+
 ### Устанавливаю 
 ```shell
  composer install
